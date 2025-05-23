@@ -18,9 +18,4 @@ This project implements a full-custom analog metal detector circuit, designed an
 - Oscilloscope measurements validated functionality
 - Designed for real-time metal proximity detection
 
-## 📁 File Structure
-- `/ltspice/`: Schematic files and waveforms
-- `/pcb-layout/`: Board layout screenshots and schematics
-- `/report/`: Summary or documentation PDF (if included)
-
 ---
